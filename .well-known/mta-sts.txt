@@ -1,5 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: praychiro.com.1.0001.arsmtp.com
 mx: praychiro.com.2.0001.arsmtp.com
 mx: praychiro-com.mx2.arsmtp.com
