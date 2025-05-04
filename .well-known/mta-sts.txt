@@ -1,0 +1,11 @@
+version: STSv1
+mode: testing
+mx: praychiro.com.1.0001.arsmtp.com
+mx: praychiro.com.2.0001.arsmtp.com
+mx: praychiro-com.mx2.arsmtp.com
+mx: praychiro-com.mx1.arsmtp.com
+mx: praychiro-com.p10.spamhero.com
+mx: praychiro-com.p20.spamhero.net
+mx: praychiro-com.p30.spamhero.net
+mx: praychiro-com.p40.spamhero.net
+max_age: 86401
